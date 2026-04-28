@@ -18,6 +18,13 @@ Container orchestration, application deployment, and GitOps workflows.
 
 ---
 
+## 🚀 GitOps Lab (Argo CD)
+Hands-on GitOps implementation with Kubernetes & Argo CD
+
+🔗 https://github.com/guihen01/argo-lab
+
+--
+
 ## ⚙️ Infrastructure Automation (Ansible)
 Configuration management and post-provisioning automation integrated with Terraform workflows.
 
