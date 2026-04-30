@@ -25,7 +25,7 @@ Hands-on GitOps implementation with Kubernetes & Argo CD
 
 --
 
-## 🚀 GitOps Lab Kubernetes & App Python + Metrics + Ingress + Prometheus + Argo CD
+## 🚀 Kubernetes Observability Lab
 Hands-on GitOps implementation with Kubernetes & App Python + Metrics + Ingress + Prometheus + Argo CD
 
 🔗 https://github.com/guihen01/app-observability-lab
