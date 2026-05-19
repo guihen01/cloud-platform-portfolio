@@ -1,7 +1,7 @@
 
 # Cloud & DevOps Portfolio
 
-This repository highlights selected cloud and DevOps projects demonstrating hands-on experience with AWS, Terraform, Kubernetes, GitOps, and automation practices.
+This repository highlights selected cloud and DevOps projects demonstrating hands-on experience with AWS, Azure, Terraform, Kubernetes, GitOps, and automation practices.
 
 ---
 ## Azure Portfolio
