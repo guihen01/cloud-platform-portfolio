@@ -5,8 +5,9 @@ This repository highlights selected cloud and DevOps projects demonstrating hand
 
 ---
 ## Azure Portfolio
+Hands-on Azure projects covering App Services, Azure DevOps, CI/CD pipelines, container deployment, and cloud automation.
 
-https://github.com/guihen01/Azure-labs
+👉 https://github.com/guihen01/Azure-labs
 
 ---
 
